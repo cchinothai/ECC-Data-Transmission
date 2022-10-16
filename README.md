@@ -2,6 +2,7 @@
 
 Group Members:
 Cody Chinothai - ECC Generator
+
 Van Luu - ECC Detector
 
 Lab 2 ECC Gen.clf 
