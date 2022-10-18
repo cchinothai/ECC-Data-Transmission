@@ -1,6 +1,6 @@
 # ECC-Data-Transmission Lab 2
 
-Group Members:
+Group Members: Cody Chinothai and Van Luu
 
 Cody Chinothai - ECC Generator
 
